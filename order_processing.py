@@ -3,7 +3,6 @@ from __future__ import annotations
 from typing import Any
 
 
-# Constants (magic numbers)
 DEFAULT_CURRENCY = "USD"
 TAX_RATE = 0.21
 
